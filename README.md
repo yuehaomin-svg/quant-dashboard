@@ -20,6 +20,7 @@
 ## 🔗 已部署至 Streamlit，点击查看
 
 👉 **[点击这里进入交互式数据看板体验](https://quant-dashboard-a25iugewwo9kwswt7q94qd.streamlit.app/)**
+看板托管在 Streamlit 免费社区版，若显示休眠，点击‘Yes, get this app back up!’即可唤醒，约10秒加载
 
 ---
 
